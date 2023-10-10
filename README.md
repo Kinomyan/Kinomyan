@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kinomi</h1>
-<h3 align="center">CEO do Sexo</h3>
+<h3 align="center">Purple Demon</h3>
 
 - I’m currently working on **some cool things**
 
