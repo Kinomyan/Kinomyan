@@ -1,3 +1,4 @@
+<img align="center" src="https://pbs.twimg.com/media/FUDBJ_2XEAIqqIY?format=jpg&name=4096x4096">
 <h1 align="center">Hi, I'm Kinomi</h1>
 <h3 align="center">Purple Demon</h3>
 
