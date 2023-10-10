@@ -1,4 +1,4 @@
-<img align="center" src="https://pbs.twimg.com/media/FUDBJ_2XEAIqqIY?format=jpg&name=4096x4096">
+<img align="center" src="https://yt3.googleusercontent.com/Hb2vKqSfoS0KvQU23ppnA8sU0yleOdx88BaNbrhhiZ8mPjIVx4kIvYLlYr3jD6mcF7NdxGUSjz4=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj">
 <h1 align="center">Hi, I'm Kinomi</h1>
 <h3 align="center">Purple Demon</h3>
 
@@ -11,6 +11,8 @@
 - Fun fact, **Im a Demon, and I LOVE purple**
 
 - How to reach me **kinomibandida@gmail.com**
+
+- Banner
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
